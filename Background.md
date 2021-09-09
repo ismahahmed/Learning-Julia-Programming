@@ -29,7 +29,7 @@ Julia is a general purpose language but it is especially powerful data analysis/
 
 #### Installing Julia
 
-I downloaded the Julia 1.6 straight from the official [website](https://julialang.org/downloads/). Julia 1.6 is the current stable release. For my computer, I downloaded mac OS 64 bit. 
+I downloaded Julia 1.6 straight from the official [website](https://julialang.org/downloads/). Julia 1.6 is the current stable release. For my computer, I downloaded mac OS 64 bit. 
 
 After downloading, I [added Julia to the Path](https://discourse.julialang.org/t/hi-trying-to-add-julia-to-the-path-on-my-mac-book-pro/24369/4) on my Mac Book Pro computer. 
 I ran the following in my MacOS terminal:
