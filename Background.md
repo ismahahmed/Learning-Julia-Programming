@@ -60,4 +60,4 @@ print(hello world)
 
 #### How do you write comments in Julia?
 
-The `#` symbol is used to make single line comments. The `#=` symbols are used to make multi line comments. To end a multiline comment, do =#
+The `#` symbol is used to make single line comments. The `#=` symbols are used to make multi line comments. To end a multiline comment, do `=#`
