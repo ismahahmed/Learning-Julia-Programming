@@ -17,7 +17,7 @@
 
 ```julia
 s = "This variable name is the charector s"
-😀 = "You can have a varible defines as an emoji"
+😀 = "You can have a varible defined as an emoji"
 _ = "You can have an underscore as a variable name"
 ```
 ### Coding in Julia
