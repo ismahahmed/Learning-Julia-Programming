@@ -55,7 +55,7 @@ Julia: Execute File
 Similar to Python and R, to print *Hello World* in julia, run:
 
 ```julia
-print(hello world)
+print("hello world")
 ```
 
 #### How do you write comments in Julia?
