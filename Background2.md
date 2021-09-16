@@ -8,7 +8,6 @@
 - For example, you can have an emoji as a variable name
 - You cannot have a variable that starts with a number
 - Variable names in Julia are case sensitive
-- Variables 
 
 [Stylistic Conventions](https://docs.julialang.org/en/v1/manual/variables/) that the Julia Community has adopted:
 - These are some useful standards when naming variables (they are not enforced by the compiler)
