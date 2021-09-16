@@ -4,7 +4,7 @@
 ### Naming Conventions
 
 [Naming Variables](https://docs.julialang.org/en/v1/manual/variables/)
-- In Julia, naming varibles may seem more flexible than other languages
+- In Julia, naming variables may seem more flexible than other languages
 - For example, you can have an emoji as a variable name
 - You cannot have a variable that starts with a number
 - Variable names in Julia are case sensitive
