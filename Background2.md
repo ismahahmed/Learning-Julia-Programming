@@ -29,7 +29,7 @@ myNum = 4
 print(typeof(myNum)) # Julia will determine this to be an Int64 variable type
 ```
 Julia is also considered a *weakly typed language*, meaning that the program will run until it breaks instead of detecting errors at compile time
-An important note: unlike Python, Julia starts indexing at 0.
+An important note: unlike Python, Julia starts indexing at 1.
 
 When programming in Julia, you will get an error if you try to add strings and integers. ex: `x = "5" + 6`. Julia will give you the following error: `MethodError: no method matching +(::String, ::Int64)`
 
