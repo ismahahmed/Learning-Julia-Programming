@@ -57,7 +57,7 @@ fruit = ("Strawberry", "Apple", "Blueberry", "Rasberry", "Orange", "Melon", "Kiw
 fruit[1] # to get the first element which is "Strawberry"
 ```
 
-### Sources
+## Sources
 - Julia Academy Introductory Course (free): https://juliaacademy.com/courses/375479/lectures/5745524
 - Julia Documentation for Variables: https://docs.julialang.org/en/v1/manual/variables/
 - Julia Documentation for Mathematical Operators and Elementary Functions: https://docs.julialang.org/en/v1/manual/mathematical-operations/ 
