@@ -21,7 +21,7 @@ end
 ```
 
 ### Example of if/elseif/else conditional statement
-```{julia}
+```julia
 x = 4
 y = 6
 
@@ -41,7 +41,7 @@ end
 ### Boolean Values in Julia Lang
 
 In Julia, if a statment is true, than Julia will return **true**, if the statment is false, Julia will return **false**
-```{julia}
+```julia
 x = "cat"
 x == "cat" # returns: true
 x == "dog" # retursn: false
@@ -52,7 +52,7 @@ The operator `&&` corresponds to *and* while the `||` operator corresponds to *o
 
 Take a look at the code below where we are using the *and* operator. As you can see, every thing *right* of the `&&` operators is *only* evaluated when whatever left of the `&&` operators is **true**
 
-```{julia}
+```julia
 x = 4
 y = 6
 (x > y) && println("$x is greater than $y") # returns false
@@ -61,7 +61,7 @@ y = 6
 
 Now look at the code below where we are usign the *or* operator. As you can see, everything *right* of the `||` operators is *only* evaluated when whatever left of the `||` operators is **false**
 
-```{julia}
+```julia
 x = 4
 y = 6
 (x > y) || println("$x is less than $y") # returns print statement
@@ -77,7 +77,7 @@ Julia does not have any switch-case structure. You can easily manipulate a condi
 
 #### Using an if/elseif/else statement to resemble switch-case structure:
 
-```{julia}
+```julia
 function switch_case(var)
     if var == 1
         println("one")
