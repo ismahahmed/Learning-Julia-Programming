@@ -72,6 +72,6 @@ function switch_case(var)
     end
 end
  
-switch_case(2) 
+switch_case(1) # will return one
+switch_case(2) # will return two
  
-switch_case(1) 
