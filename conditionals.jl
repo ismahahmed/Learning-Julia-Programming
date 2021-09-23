@@ -55,7 +55,7 @@ end
 
 #= 
 Julia does not have built in switch case statements and there are currently no
-plans to implementing a switch case into the languge. This is a way you can imitate
+plans to implement a switch case into the languge. This is a way you can imitate
 a switch case in Julia:
 https://discourse.julialang.org/t/a-switch-type-function/13491/3 
 =#
