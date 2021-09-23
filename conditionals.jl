@@ -63,11 +63,15 @@ https://discourse.julialang.org/t/a-switch-type-function/13491/3
 function switch_case(var)
     if var == 1
         println("one")
+    end
     if var == 2
         println("two")
+    end
     if var == 3
         println("three")
     end
 end
+ 
+switch_case(2) 
  
 switch_case(1) 
