@@ -19,6 +19,25 @@ else
   code run by default if both if and elseif statements are false
 end
 ```
+
+### Example of if/elseif/else conditional statement
+```{julia}
+x = 4
+y = 6
+
+if x % 2 == 0 && y % 2 == 0
+    print("$x and $y are both even numbers")
+elseif x % 2 != 0 && y % 2 == 0
+    print("$x is an odd number and $y is an even number")
+elseif x % 2 == 0 && y % 2 != 0
+    print("$x is an even number and $y is an odd number")
+else
+    print("$x and $y are both odd numbers")
+end
+
+# Since x and y are both even numbers, the first if statment/condition will be executed
+```
+
 ### Boolean Values in Julia Lang
 
 In Julia, if a statment is true, than Julia will return **true**, if the statment is false, Julia will return **false**
