@@ -1,7 +1,7 @@
 # The Julia Language: Loops and Functions
 
 
-This document will go through **loops** and **functions** in the Julia programming language. Both loops and functions are integral parts in a programming language! We will first look at different types of loops and Julia lang (for and while loops) as well as how to program them. After going through loops, we will learn how to create functions as well as learn how functions in Julia lang are declared (there are a couple of different ways).
+This document will go through **loops** and **functions** in the Julia programming language. Both loops and functions are integral parts in a programming language! We will first look at different types of loops in Julia Programming language (for and while loops) as well as how to program them. After going through loops, we will learn how to create functions as well as learn how functions in Julia lang are declared (there are a couple of different ways).
 
 # Loops 
 
