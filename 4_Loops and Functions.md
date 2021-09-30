@@ -127,8 +127,7 @@ function hello(name)
 end
 hello("Ismah") # calling the function 
 ```
-After After running this functiona above, Julia returns: `hello (generic function with 1 method)`meaning `hello` is a function with 1 method/instance variable
-
+After running this functiona above, Julia returns: `hello (generic function with 1 method)`meaning `hello` is a function with 1 method/instance variable
 
 Julia will return: `Hello Ismah!`
 
