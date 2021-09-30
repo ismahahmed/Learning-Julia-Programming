@@ -71,6 +71,8 @@ while condition
     body
 end
 ```
+Keywords: `while`, `end`
+
 #### While loop examples:
 
 In the above section for for loops, we learned how to print out number 1-4 using a `for` loop. Lets try to do the same using a `while` loop. Remember: while loops are run until the condition is false, this means we can use boolean statements for the condition.
