@@ -106,7 +106,7 @@ end
 
 # Functions
 
-### Syntax for Declaring a Function
+## Syntax for Declaring a Function
 
 There are a few different ways to declare a function in Julia. I have listed examples and the syntax for each of them.
 
@@ -119,7 +119,7 @@ Keywords: `function`, `end`
 
 Note: the `function` keyword is used in this first way to declare a function. You put the `function`keyword before the name of your function. In parenthesis, you will put the instances your are passing, you can leave this empty if there are no instances being passed. You terminate/end the function block with the `end` keyword.
 
-#### Examples:
+### Examples:
 
 ```julia
 function hello(name)
@@ -131,7 +131,7 @@ After running this functiona above, Julia returns: `hello (generic function with
 
 Julia will return: `Hello Ismah!`
 
-#### Function that takes in two parameters(using the above syntax):
+### Function that takes in two parameters(using the above syntax):
 
 ```julia
 function sum(a, b)
@@ -141,7 +141,7 @@ sum(1,2)
 ```
 Julia will return: `The sum of 1 and 2 is 3`
 
-### Syntax for Declaring a Function in 1 line
+## Syntax for Declaring a Function in 1 line
 
 In Julia language, you are able to declare a function in 1 line! In this case, you do not need to use the `function` keyword like you did in the above example.
 
@@ -149,7 +149,7 @@ In Julia language, you are able to declare a function in 1 line! In this case, y
 name_of_fucntion(instance if applicable) = body
 ```
 
-#### Examples (using the 1 line syntax above): 
+### Examples (using the 1 line syntax above): 
 
 When writing a function using the 1 line method, you will still be able to call the function the same way.
 
@@ -158,7 +158,7 @@ hello2(name) = return("Hello $name !")
 hello2("Ismah")
 ```
 
-#### Function that takes in two parameters(using the above syntax):
+### Function that takes in two parameters(using the above syntax):
 
 As you can see below, you can create a function using the 1 line method and also be able to pass in two parameters.
 
@@ -167,7 +167,7 @@ sum2(a,b) = return("The sum of $a and $b is ", a+b)
 sum2(2,2)
 ```
 
-### Anonomous/lamda function Syntax
+## Anonomous/lamda function Syntax
 
 Anonomous function syntax used `->` after the instance and before the body of the function.
 
@@ -175,7 +175,7 @@ Anonomous function syntax used `->` after the instance and before the body of th
 name_of_fucntion = instance -> body
 ```
 
-#### Examples using the anonomous function syntax:
+### Examples using the anonomous function syntax:
 
 You are still able to call the function the same way
 
@@ -184,7 +184,7 @@ hello3 = name -> return("Hello $name !")
 hello3("Ismah")
 ```
 
-#### Function that takes in two parameters(using the above syntax):
+### Function that takes in two parameters(using the above syntax):
 ```julia
 sum3 = (a,b) -> return("The sum of $a and $b is ", a+b)
 sum3(2,2)
