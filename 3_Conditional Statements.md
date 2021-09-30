@@ -3,7 +3,7 @@
 
 ### Syntax
 In Julia programming, there is a specific syntax and structure that is used for conditional statements.
-- **if:** similar to python, if is followed by a condition and if that condition is true than the body of that if statment is executed
+- **if:** similar to python, if is followed by a condition and if that condition is true than the body of that if statement is executed
 - **elseif:** an additional condition to consider, the elseif is followed by a unique condition and if it is true, the body of the elseif statement is executed
 - **else:** the last if none of the previous conditions are executing/are true, than else is th default and the body of the else statement will be executed
 - **end:** all conditional statements in Julia are terminated with the end statement 
