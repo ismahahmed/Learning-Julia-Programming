@@ -271,7 +271,8 @@ The print statement returns `5 4 3 2 1` suggesting that the array was permenentl
 # Sources
 *You can learn more about Julia loops and functions through the following resources*
 - Julia Academy Introductory Course (free): https://juliaacademy.com/courses/375479/lectures/5745524
-- Julia Documentation on Control Flow: https://docs.julialang.org/en/v1/manual/control-flow/#Short-Circuit-Evaluation 
+- Julia Documentation Control Flow: https://docs.julialang.org/en/v1/manual/control-flow/
+- Julia Documentation Functions: https://docs.julialang.org/en/v1/manual/functions/ 
 - GeeksforGeeks Splitting String in Julia: https://www.geeksforgeeks.org/splitting-string-into-array-of-substrings-in-julia-split-and-rsplit-method/ 
 
 
