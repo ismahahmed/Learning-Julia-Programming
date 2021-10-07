@@ -75,7 +75,7 @@ function adult(p::Person)
 end
 ```
 
-# Instanciating Structs and Calling Functions
+#  Instantiate Structs and Calling Functions
 
 Below, we are instanciating 2 Person objects. Object p1, has the name "Sam" and an age of 14. `p1.name` returns the name Sam and `p1.age` returns the age. The same goes for p2, our second Person object. We call a function by: `functionName(object)`.
 
@@ -110,7 +110,7 @@ function printMajor(s::Student)
     return("My major: $(s.major)")
 end
 ```
-**Calling and Instanciating**
+**Calling and Instantiating**
 
 ```julia
 s1 = Student(Person("Sally", 19), "Computer Science")
