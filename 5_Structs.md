@@ -1,4 +1,4 @@
-# The Julia Language: Object Oriented Programmign Using Structs
+# The Julia Language: Object Oriented Programming Using Structs
 
 This document will introduce Julia language **structs**. Structs (previously known as *types*) are similar to what other programming languages call *classes*. In short, structs are used for object oriented programming in Julia. There is a specific format used for Julia structs (that will be later discussed in this document). A structs have *field values*, and these field values can be used in different functions for the struct.  
 
