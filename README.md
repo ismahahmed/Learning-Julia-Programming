@@ -6,6 +6,7 @@ GitHub repository for my semester long project in my CS-330 course: Structure an
   <img src="images/julia logo.png" width="350" title="hover text">
 </p>
 
+# 
 <details close>
   <summary>
     <a href="https://github.com/ismahahmed/Learning-Julia-Programming/tree/main/Assignment1">Assignment 1</a> 
@@ -19,6 +20,7 @@ GitHub repository for my semester long project in my CS-330 course: Structure an
   
 </details>
 
+#
 <details close>
   <summary>
     <a href="https://github.com/ismahahmed/Learning-Julia-Programming/tree/main/Assignment2">Assignment 2</a>
@@ -32,6 +34,7 @@ GitHub repository for my semester long project in my CS-330 course: Structure an
   
  </details>
  
+ #
 <details close>
   <summary>
     <a href="https://github.com/ismahahmed/Learning-Julia-Programming/tree/main/Assignment3">Assignment 3</a>
@@ -45,7 +48,7 @@ GitHub repository for my semester long project in my CS-330 course: Structure an
   
  </details>
  
- 
+ #
 <details close>
   <summary>
     <a href="https://github.com/ismahahmed/Learning-Julia-Programming/tree/main/Assignment4">Assignment 4</a>
@@ -59,7 +62,7 @@ GitHub repository for my semester long project in my CS-330 course: Structure an
   
  </details>
 
-
+#
 <details close>
   <summary>
     <a href="https://github.com/ismahahmed/Learning-Julia-Programming/tree/main/Assignment5">Assignment 5</a>
@@ -72,6 +75,6 @@ GitHub repository for my semester long project in my CS-330 course: Structure an
   <p>This Julia file will have examples on structs. This includes syntax for creating structs and syntax to call a struct. It has examples of how objects are created.</p>
   
  </details>
-
+#
 
 
