@@ -75,6 +75,8 @@ GitHub repository for my semester long project in my CS-330 course: Structure an
   <p>This Julia file will have examples on structs. This includes syntax for creating structs and syntax to call a struct. It has examples of how objects are created.</p>
   
  </details>
-#
+ 
+# 
+
 
 
