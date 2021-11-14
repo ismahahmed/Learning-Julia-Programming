@@ -13,7 +13,7 @@ GitHub repository for my semester long project in my CS-330 course: Structure an
   </summary><br>
   
 <a href="https://github.com/ismahahmed/Learning-Julia-Programming/blob/main/Assignment1/Background.md">Background</a> 
-<p>Introduction to Julia Language includuing a background on where and when it was created. Includes links to several different resources when learning the     Julia programming language. This markdown file will also go through installation and running your first program.</p>
+<p>Introduction to Julia Language including a background on where and when it was created. Includes links to several different resources when learning the     Julia programming language. This markdown file will also go through installation and running your first program.</p>
   
 <a href="https://github.com/ismahahmed/Learning-Julia-Programming/blob/main/Assignment1/helloworld.jl">helloworld.jl</a>
 <p>Example of Hello World in Julia. Also has example of different comments (single line/multi line comments)</p>
